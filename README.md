@@ -29,7 +29,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 </p>
 
 <h3 align="left">My Certificates and Badges:</h3>
-<a href="https://github.com/abidaziz1/Bash-Scripting/blob/main/CertificateOfCompletion_GenerativeAI.pdf" target="_blank">Generative AI Certificate</a>
+<a href="https://github.com/abidaziz1/Certificates/blob/main/CertificateOfCompletion_GenerativeAI.pdf" target="_blank">Generative AI Certificate</a>
 
 
 
