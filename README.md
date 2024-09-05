@@ -29,25 +29,8 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 </p>
 
 <h3 align="left">My Certificates and Badges:</h3>
-<ul>
-    <li>
-        <a href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin/summative-exams/urn:li:la_assessmentV2:59609315" target="_blank">
-            Career Essentials in Generative AI - Microsoft and LinkedIn
-        </a>
-    </li>
-    <!-- 
-    <li>
-        <a href="https://your-next-certificate-link.com" target="_blank">
-            Your Next Certificate Title
-        </a>
-    </li>
-    <li>
-        <a href="https://your-other-certificate-link.com" target="_blank">
-            Your Other Certificate Title
-        </a>
-    </li>
-    -->
-</ul>
+<a href="https://github.com/abidaziz1/Bash-Scripting/blob/main/CertificateOfCompletion_GenerativeAI.pdf" target="_blank">Generative AI Certificate</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
