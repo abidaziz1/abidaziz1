@@ -29,7 +29,9 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 </p>
 
 <h3 align="left">My Certificates and Badges:</h3>
-<a href="https://github.com/abidaziz1/Certificates/blob/main/CertificateOfCompletion_GenerativeAI.pdf" target="_blank">Generative AI Certificate</a>
+<a href="https://github.com/abidaziz1/Certificates/blob/main/CertificateOfCompletion_Career_Essentialsin_CybersecuritybyMicrosoftandLinkedIn.pdf" target="_blank">Career Essentials in Cyber Security by Microsoft</a>
+<br>
+<a href="https://github.com/abidaziz1/Certificates/blob/main/CertificateOfCompletion_GenerativeAI.pdf" target="_blank">Career Essentials in Generative AI by Microsoft</a>
 
 
 
