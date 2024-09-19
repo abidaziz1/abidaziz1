@@ -33,10 +33,14 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <br>
 <a href="https://github.com/abidaziz1/Certificates/blob/main/CertificateOfCompletion_GenerativeAI.pdf" target="_blank">Career Essentials in Generative AI by Microsoft</a>
 <br>
+<a href="https://github.com/abidaziz1/Certificates/blob/main/Introduction_to_Cybersecurity_Badge20240916-7-4scx10.pdf" target="_blank">Introduction to Cyber Security by Cisco Networking Academy</a>
+<br>
+<a href="https://github.com/abidaziz1/Certificates/blob/main/Operating_Systems_Basics_Badge20240919-7-lk2wkp.pdf" target="_blank">Operating Systems Basics by Cisco</a>
+<br>
 <a href="https://github.com/abidaziz1/Certificates/blob/main/sql_basic_certificate.pdf" target="_blank">SQL Basic by HackerRank</a>
 <br>
-<a href="https://github.com/abidaziz1/Certificates/blob/main/Operating_Systems_Basics_Badge20240919-7-lk2wkp.pdf" target="_blank">SQL Basic by HackerRank</a>
-<br>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
