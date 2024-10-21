@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abidaziz1" alt="abidaziz1" /></a> </p>
 
 - 🔭 I’m currently working on *Penetration Testing, Robotics Projects*
-
 - 🌱 I’m currently learning *Advanced Penetration Testing, SQL Databases, Web Development & Web Application Security*
 
 - 👨‍💻 All of my projects are available at [https://github.com/abidaziz1](https://github.com/abidaziz1)
