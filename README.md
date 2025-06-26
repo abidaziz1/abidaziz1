@@ -28,20 +28,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 </a>
 </p>
 
-<h3 align="left">My Certificates and Badges:</h3>
-<a href="https://github.com/abidaziz1/Certificates/blob/main/Comptia.md" target="_blank">Comptia Pentest+ by Tryhackme</a>
-<a href="https://github.com/abidaziz1/Certificates/blob/main/CertificateOfCompletion_Career_Essentialsin_CybersecuritybyMicrosoftandLinkedIn.pdf" target="_blank">Career Essentials in Cyber Security by Microsoft</a>
-<br>
-<a href="https://github.com/abidaziz1/Certificates/blob/main/Cyber_Security_101.md" target="_blank">Cyber Security 101 THM</a>
-<br>
-<a href="https://github.com/abidaziz1/Certificates/blob/main/CertificateOfCompletion_GenerativeAI.pdf" target="_blank">Career Essentials in Generative AI by Microsoft</a>
-<br>
-<a href="https://github.com/abidaziz1/Certificates/blob/main/Introduction_to_Cybersecurity_Badge20240916-7-4scx10.pdf" target="_blank">Introduction to Cyber Security by Cisco Networking Academy</a>
-<br>
-<a href="https://github.com/abidaziz1/Certificates/blob/main/Operating_Systems_Basics_Badge20240919-7-lk2wkp.pdf" target="_blank">Operating Systems Basics by Cisco</a>
-<br>
-<a href="https://github.com/abidaziz1/Certificates/blob/main/sql_basic_certificate.pdf" target="_blank">SQL Basic by HackerRank</a>
-<br>
+ 
 
 
 <h3 align="left">Languages and Tools:</h3>
